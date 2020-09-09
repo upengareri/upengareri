@@ -1,8 +1,8 @@
 ### Hi, I am Upen
 
-- 🔭 I’m currently working on some personal Data Science projects.
-- 🌱 I’m currently learning SQL, AWS, Jenkins
-- 💬 Ask me about anything [here](https://github.com/upengareri/upengareri/issues)
+- 🔭  I’m currently working on some personal Data Science projects.
+- 🌱  I’m currently learning SQL, AWS, Jenkins
+- 💬  Ask me about anything [here](https://github.com/upengareri/upengareri/issues)
 
 🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** 
