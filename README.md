@@ -1,6 +1,6 @@
-### Hi, I am Upen
+### Hi, Call me Upen
 
-- 🔭  I’m currently working on some personal Data Science projects.
+- 🔭  I’m currently working on some personal AWS projects.
 - 🌱  I’m currently learning SQL, AWS, Jenkins
 - 💬  Ask me about anything [here](https://github.com/upengareri/upengareri/issues)
 
