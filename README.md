@@ -1,7 +1,6 @@
 ### Hi, Call me Upen
 
-- 🔭  I’m currently working on some personal AWS projects.
-- 🌱  I’m currently learning SQL, AWS, Jenkins
+- 🔭  I’m currently working on some personal AWS projects using Packer, Ansible and Terraform as IaaC
 - 💬  Ask me about anything [here](https://github.com/upengareri/upengareri/issues)
 
 🏡 [website][website] **|** 
